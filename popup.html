@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SnapBot settings</title>
+</head>
+<body>
+    <textarea
+          name="custom-script"
+          draggable="false"
+          rows="12"
+            cols="50"
+          placeholder="alert('hi');"
+    ></textarea>
+    <br>
+    <input type="checkbox" name="periodic" id="periodic">
+    <label for="periodic">Runs in periodic?</label>
+    <br>
+    <input type="number" name="delay" id="delay">
+    <label for="delay">Periodic interval (in ms)</label>
+    <br>
+    <button id="save">Save</button>
+    <hr>
+    <p>Status: <span id="status"></span></p>
+    <button id="set-state"></button>
+
+    <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "manifest_version": 3,
+    "name": "SnapBot",
+    "description": "Snapchat Bot - Send snaps.",
+    "version": "1.0.0",
+    "permissions": [
+        "storage",
+        "webRequest",
+        "tabs",
+        "scripting",
+        "userScripts"
+    ],
+    "icons": {
+        "1024": "logo.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.snapchat.com/*"
+            ],
+            "js": [
+                "./script.js"
+            ],
+            "run_at": "document_start",
+            "world": "ISOLATED"
+        }
+    ],
+    "web_accessible_resources": [{
+        "resources": ["injected.js", "snapchatapi.js", "listeners/nonperiodic.js", "listeners/periodic.js"],
+        "matches": ["<all_urls>"]
+    }],
+    "background": {
+        "service_worker": "./background.js",
+        "type": "module"
+    },
+    "host_permissions": [
+        "https://*.snapchat.com/*"
+    ]
+}
