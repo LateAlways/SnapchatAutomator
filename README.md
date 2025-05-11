@@ -59,7 +59,7 @@
 
 ### How to use it
 1. Click on the extension icon.
-2. Write your own scripts or download ones from the repo.
+2. Write your own scripts using the [Documentation](https://github.com/LateAlways/SnapchatAutomator/wiki) or download ones from the repo.
 3. Set the settings and save the script.
 4. Run the script.
 
@@ -68,6 +68,8 @@
 Using [BetterSnapchat](https://github.com/dclstn/better-snapchat) alongside with this extension is recommended.
 
 ## Contributing
+
+Feel free to add more examples to the examples folder or any modification to this extension.
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
