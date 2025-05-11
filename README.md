@@ -98,11 +98,11 @@ This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for d
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LateAlways/ti-connect-ce-browser.svg?style=for-the-badge
-[contributors-url]: https://github.com/LateAlways/ti-connect-ce-browser/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LateAlways/ti-connect-ce-browser.svg?style=for-the-badge
-[forks-url]: https://github.com/LateAlways/ti-connect-ce-browser/network/members
-[stars-shield]: https://img.shields.io/github/stars/LateAlways/ti-connect-ce-browser.svg?style=for-the-badge
-[stars-url]: https://github.com/LateAlways/ti-connect-ce-browser/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LateAlways/ti-connect-ce-browser.svg?style=for-the-badge
-[issues-url]: https://github.com/LateAlways/ti-connect-ce-browser/issues
+[contributors-shield]: https://img.shields.io/github/contributors/LateAlways/SnapchatAutomator.svg?style=for-the-badge
+[contributors-url]: https://github.com/LateAlways/SnapchatAutomator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LateAlways/SnapchatAutomator.svg?style=for-the-badge
+[forks-url]: https://github.com/LateAlways/SnapchatAutomator/network/members
+[stars-shield]: https://img.shields.io/github/stars/LateAlways/SnapchatAutomator.svg?style=for-the-badge
+[stars-url]: https://github.com/LateAlways/SnapchatAutomator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LateAlways/SnapchatAutomator.svg?style=for-the-badge
+[issues-url]: https://github.com/LateAlways/SnapchatAutomator/issues
