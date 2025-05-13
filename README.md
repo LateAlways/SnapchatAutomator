@@ -71,7 +71,9 @@ Using [BetterSnapchat](https://github.com/dclstn/better-snapchat) alongside with
 ## Credits
 
 Parts of the code have been taken from:
+
 [SnapEnhance - A userscript for Snapchat Web](https://github.com/SnapEnhance/web)
+
 [BetterSnapchat - Screenshot Freely, Save Media, Bypass Presence Detection and more! Previously known as Better Snapchat.](https://github.com/dclstn/better-snapchat)
 
 ## Contributing
