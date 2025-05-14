@@ -14,3 +14,4 @@ Object.defineProperty(EventTarget.prototype, "addEventListener", {
         return oldAddEventListener.call(this, ...args);
     }
 });
+// Taken from: SnapEnhance userscript - https://github.com/SnapEnhance/web

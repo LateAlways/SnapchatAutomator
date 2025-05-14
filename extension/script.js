@@ -6,4 +6,4 @@ const injectJS = (src) => {
 }
 
 injectJS("injected.js");
-//injectJS("snapchatapi.js");
+injectJS("snapchatapi.js");
