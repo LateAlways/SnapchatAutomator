@@ -43,6 +43,7 @@
   <li>
     <a href="#usage">Usage</a>
   </li>
+  <li><a href="#credits">Credits</a></li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#legal">Legal</a></li>
@@ -66,6 +67,14 @@
 ### Additional notes
 
 Using [BetterSnapchat](https://github.com/dclstn/better-snapchat) alongside with this extension is recommended.
+
+## Credits
+
+Parts of the code have been taken from:
+
+[SnapEnhance - A userscript for Snapchat Web](https://github.com/SnapEnhance/web)
+
+[BetterSnapchat - Screenshot Freely, Save Media, Bypass Presence Detection and more! Previously known as Better Snapchat.](https://github.com/dclstn/better-snapchat)
 
 ## Contributing
 
