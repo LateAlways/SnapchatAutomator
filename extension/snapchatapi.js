@@ -1,4 +1,3 @@
-
 (async () => {
     let snapchatWebpackRequire = null;
     let snapchatStore = null;
