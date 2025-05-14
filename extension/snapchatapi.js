@@ -107,6 +107,9 @@
             if (conversations == null) return null;
 
             return conversations[conversationId];
+        },
+        GS: () => {
+            return SnapchatUtils.getSnapchatStore().getState();
         }
     }
     window.SU = SnapchatUtils;
