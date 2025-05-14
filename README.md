@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LateAlways/SnapchatAutomator">
-    <img src="logo.png" alt="Logo" width="80" height="80" style="border-radius: 10px;">
+    <img src="extension/logo.png" alt="Logo" width="80" height="80" style="border-radius: 10px;">
   </a>
 
 <h3 align="center">SnapchatAutomator</h3>
